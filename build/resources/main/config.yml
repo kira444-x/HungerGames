@@ -1,6 +1,6 @@
 # Minimum and Maximum stacks of different items for regular chests
 min-chest-content: 3
-max-chest-content: 6
+max-chest-content: 10
 # Minimum and Maximum stacks of different items for Barrels
 min-barrel-content: 4
 max-barrel-content: 7
